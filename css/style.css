@@ -1,0 +1,41 @@
+ul,li{
+  list-style: none;
+}
+ul{
+  font-size: 1.2rem;
+}
+li{
+  font-size: 1rem;
+}
+body {
+    background-color: #fff; /* デフォルトの背景色 */
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  header {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2.5rem;
+  }
+
+  .container {
+    height: 100vh; /* 画面全体の高さを占める */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .click-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  
+  .clicked {
+    background-color: #7bf0db; /* クリック時の背景色 */
+  }
+  
