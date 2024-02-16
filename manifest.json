@@ -11,7 +11,7 @@
     "lang": "ja-jp",
     "icons": [{
         "src": "apple-touch-icon-192.png",
-        "sizes": "192x192",
+        "sizes": "128x128",
         "type": "image/png"
       }, {
         "src": "apple-touch-icon-512.png",
